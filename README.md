@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xli2002
+- 👋 Hi, I’m @Xinyu
         
 <!---
 xli2002/xli2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
